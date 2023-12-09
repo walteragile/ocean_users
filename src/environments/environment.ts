@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   api: 'https://dummyapi.io/data/v1',
-  apiHeader: '0JyYiOQXQQr5H9OEn21312'
+  apiHeader: '6112dc7c3f812e0d9b6679dd'
 };
 
 /*
